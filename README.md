@@ -316,15 +316,17 @@ The existing test suite covers:
 
 ## 📸 Dashboard Screenshots
 
-Dashboard screenshots can be added here to demonstrate the application visually.
+### Help Desk Overview
+![Help Desk Overview](screenshots/dashboard_overview.png)
 
-Recommended screenshots:
+### Technician Workload
+![Technician Workload](screenshots/technician_workload.png)
 
-- Help Desk Overview and Ticket Status Distribution
-- Technician Workload
-- Department Resolution Performance
-- Interactive Filters and Ticket Records
+### Department Resolution Performance
+![Department Resolution](screenshots/department_resolution.png)
 
+### Ticket Records
+![Ticket Records](screenshots/ticket_records.png)
 ## 💡 Skills Demonstrated
 
 - Building a multi-stage Python data pipeline
